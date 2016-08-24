@@ -1,0 +1,22 @@
+{
+  "name": "prescription_ocr",
+  "version": "1.0.0",
+  "description": "read text from box of prescriptions and provide information about that.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ocr-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnaport22/prescription_ocr.git"
+  },
+  "author": "maddna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnaport22/prescription_ocr/issues"
+  },
+  "homepage": "https://github.com/dnaport22/prescription_ocr#readme",
+  "dependencies": {
+    "google-cloud": "^0.38.3"
+  }
+}

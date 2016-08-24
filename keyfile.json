@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-project-842067793938",
+  "private_key_id": "7914f1849299a1ae0c8d20e04c6e4cbd40012272",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHmiiim5PycpJ5\nIpllhNyE/RWw83t8lrltw8k5XDwbah4eFVz8iVUAkKXVJSKk90WRh+SVDusIgKmn\nF1c1NrZRJ97tWg0x0zWZz4FfnoYQPxGTpN0dnL3FFeggL3ol7TH9WknaLUMeIkto\nR4L9HxUfLQVBZCuOwZN7tz+acstV4RvbeYXhJAkFOhPeYALrLPioeGHI0YQpj1kv\nfCHZr3M2gklPOG6n8qDNIvvGTvl6FVrz8VfBazB/rUUKaKiu2QLKlcGmafPXukDS\nHohds2f5E+IL+cdHgzHbSlY03koKedQSOWxLNNULmhIUaVammC1Id2QepR7qQKfN\nbBo+2RpLAgMBAAECggEAer7UalreOmQ2qwOZ7ZIswiOY6T5yHAXcdiHGZt3PoNQ7\nPSjKDAqwGS7arB6wFV5yi7JT4U5RPuNQcQ6rdG/24iVws+mC37cQ6UtwNcsYinke\nZ/skdwditAZqvxAzP4uECFczv1XCRo+0a6Y+aUZqCMf4yWO+XYWxGo1wMZySanZy\nvu8+kQwihmrn2T6vc7OPd5ovZU4Z/XulZi3vt+3+9AP/tiGKRppR1EddDUgxdRz1\nb1ByHJf9aqJIX3lssiIPXTWSZdq2bQcnZD2O0Xr8XLrMUrCEHkoBKQgMymXeVGPY\nQu9z6tl6EaPX0GV7gtQY07RfG7xC0yDnDckRsOghQQKBgQD7eBWyYtkdnM8Kdol2\nc3o64t22x9CugoCopFsehHW/eSjDF+FNQgKWdEOGeI1fWjG4SoaGG/4CvXJOYvly\nDGt+6Hzswif7LwHNDNRns4Cd8yV8FrrR+2Gl3B2/D2J8j6FVxNk0z61KX3cU4ljA\nJFV1e0U8aTHcDSy6i5/roVqR8QKBgQDLMtXCcU375O84lm7qxHzrXAXSEny98wr2\nM3mZaDhGDXFiYIthOPygnrZdYLpup9U8+gABsvso1pjNWsd+NkxsmetNe4FmqlYr\nt4mnbFSsBJcGjbcLdf1/BPJk5h/ISEHEmgi7Ig72HdA5tB74M4Xv/jNemjq5dchc\nmpxuRokz+wKBgAjm5125QhZaRroIGDWpQNp0zYR67lg/Jm7R4qfh6IkusNK3NbKW\nc6D/3KQWAGsvtjLf8IMu2n8eVb2Qo2P2LJgBguqetOufbmDj42EIabUttlX+N/7W\n9033zNXGpaXjL8LphQbpkyje2EhU+u9SWfQeuQS6dJllnf+8kZy1yY8BAoGBAJAc\nrZ4J3dUYuNDZYDEAydfim/4xPmc5SDz0pPk4ATEtt4yeDDwXvpPr/Eqdn5t7TLDC\nXd7WoWqFSDnceD/7IpijUU7SmSPHCvZWZTpoimS1nKb5OyjVtcOwLnmA/Gl/VaWp\n2SdfMF09J8DFDnHZmNRs5OHjYGLINiH3RZqwS/6hAoGAZiDaVp36yMd3MGKNtlER\nXK/YjQ3iWClRERo1oZW6uugny9VpveDzBeYzelOltuVhzjjfDv0O2Ge4TZ8SPAa2\nNwG+YAPMo9a08eNryoKx61wQv7xhIXOxHYr8gwUwQY0+gLlXJiLaftONVNJ+htu2\nftTfrhkJhNNHbLZxQE08yYs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "madication-label-detection@api-project-842067793938.iam.gserviceaccount.com",
+  "client_id": "111730696873556578859",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/madication-label-detection%40api-project-842067793938.iam.gserviceaccount.com"
+}
