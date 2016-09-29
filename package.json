@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dnaport22/prescription_ocr#readme",
   "dependencies": {
+    "gcloud": "^0.37.0",
     "google-cloud": "^0.38.3"
   }
 }
